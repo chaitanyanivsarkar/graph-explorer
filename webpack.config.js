@@ -1,5 +1,7 @@
 const path = require("path");
 
+/*TODO: Add support for SASS/SCSS aswell*/
+
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
     template: "./public/index.html",
