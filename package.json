@@ -1,0 +1,37 @@
+{
+  "name": "graph-explorer",
+  "version": "1.0.0",
+  "description": "A test application to try out the things I am doing on my professional project for learning purpouses",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanyanivsarkar/graph-explorer.git"
+  },
+  "author": "Chaitanya Nivsarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaitanyanivsarkar/graph-explorer/issues"
+  },
+  "homepage": "https://github.com/chaitanyanivsarkar/graph-explorer#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-typescript": "^7.0.0-alpha.19",
+    "envify": "^1.2.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0",
+    "webpack-server": "^0.1.2"
+  },
+  "dependencies": {
+    "react": "^16.11.0",
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
