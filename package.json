@@ -26,12 +26,12 @@
     "babel-preset-typescript": "^7.0.0-alpha.19",
     "envify": "^1.2.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.9.0",
     "webpack-server": "^0.1.2"
   },
   "dependencies": {
     "react": "^16.11.0",
-    "html-webpack-plugin": "^3.2.0"
+    "html-webpack-plugin": "^5.5.0"
   }
 }
